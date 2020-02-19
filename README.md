@@ -3,8 +3,8 @@
 
 ## Main stack
 The app uses React on frontend part and Python3 on backend part.
-For frontend part you need NodeJs. For install it please go to (NodeJS)[https://nodejs.org/en/].
-For backend part you need Python 3 version. For install it please go to (Python)[https://www.python.org/]
+For frontend part you need NodeJs. For install it please go to (https://nodejs.org/en/)[NodeJS].
+For backend part you need Python 3 version. For install it please go to (https://www.python.org/)[Python]
 
 ## Scripts to get started
 
