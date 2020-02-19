@@ -10,7 +10,7 @@ For backend part you need Python 3 version. For install it please go to [Python]
 
 * To start server part, please run:
 ```
-cd api/
+cd server/
 python3 -m venv ./venv
 source ./venv/bin/activate
 pip install -r requirements.txt 
@@ -22,7 +22,7 @@ deactivate
 ```
 * To start the frontend part, please run:
 ```
-cd ui/
+cd client/
 npm install
 npm start
 ```
